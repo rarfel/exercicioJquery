@@ -1,6 +1,11 @@
 .verde{
     color: green;
 }
+
 .fonteMaior{
     font-size: 2rem;
+}
+
+ul{
+    list-style: none;
 }
