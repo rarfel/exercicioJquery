@@ -7,3 +7,7 @@ function addColor(){
 function removeColor(){
     $('h3').removeClass('verde')
 }
+
+function toggle(){
+    $('h3').toggleClass('verde')
+}
